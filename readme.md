@@ -449,6 +449,12 @@ Skills focused on software development, code quality, and engineering workflows.
   - Hooks enforce type-checking and lint on edits
   - TypeScript, MIT licensed
 
+- [modeinspect/design-engineer-skills](https://github.com/modeinspect/design-engineer-skills) ![Stars](https://img.shields.io/github/stars/modeinspect/design-engineer-skills?style=flat-square)
+  - Six agent skills for designers who ship UI in a real codebase: from a fresh clone to a pull request an engineer can review. For Claude Code, Cursor and Codex.
+  - Repo setup, component impact checks, visual QA of a branch, reviewable UI pull requests, design review of PRs and AI-readiness scoring for design systems
+  - Before and after screenshots come from a git worktree, never from switching the checkout
+  - MIT licensed, install with `npx skills add modeinspect/design-engineer-skills`
+
 ### Specialized Agents
 
 - [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) ![Stars](https://img.shields.io/github/stars/VoltAgent/awesome-claude-code-subagents?style=flat-square)
